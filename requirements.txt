@@ -1,0 +1,5 @@
+ffmpeg
+openai-whisper 
+jiwer
+certifi
+setuptools-rust
